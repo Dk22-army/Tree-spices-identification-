@@ -1,6 +1,4 @@
-# Tree-Species-Identification
-This is a repo for Tree Species Identification project
-# Tree Species Classifier 🌳
+# Tree Species Classifier 🌳🪴
 
 This repository contains:
 
